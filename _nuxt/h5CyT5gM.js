@@ -1,0 +1,1 @@
+import{D as t}from"./DzKSxDri.js";import{f as a,o,c as r,r as s,b as n,h as c}from"./CERXlGkr.js";const p={class:"px-10 py-20 text-center"},d=a({__name:"default",setup(l){return(e,f)=>(o(),r("main",p,[s(e.$slots,"default"),n(c(t))]))}});export{d as default};
